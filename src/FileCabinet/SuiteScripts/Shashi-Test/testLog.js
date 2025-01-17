@@ -1,0 +1,1 @@
+nlapiLogexecution("This is test")
